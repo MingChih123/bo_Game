@@ -32,8 +32,7 @@ https://youtu.be/I60iXGSPqCg
 ## 目標硬體 
 軟體：Windows XP, Vista, 7 
 
-硬體：PC, XBOX 360, Zune DirectX 9.0c以後，Shader Mode 1.1以後 	(參考PDF說明) 
-
+硬體：PC, XBOX 360, Zune DirectX 9.0c以後，Shader Mode 1.1以後
 ## 設計目標 
 遊戲難度：有分為「簡單」、「中等」、「激難」： 
 
